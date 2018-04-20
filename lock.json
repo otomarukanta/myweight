@@ -1,5 +1,5 @@
 {
-    "memo": "6a9aae8b1c835d319aa526a415ef0ac59042e6e61fa2d4a4636021e8c70b55a7",
+    "memo": "ca1362c8fd19c2e797f924b686b2a105a241f2f879f0bbed79d04124124064de",
     "projects": [
         {
             "name": "github.com/go-chi/chi",
@@ -38,7 +38,9 @@
                 "internal/datastore",
                 "internal/log",
                 "internal/modules",
-                "internal/remote_api"
+                "internal/remote_api",
+                "internal/urlfetch",
+                "urlfetch"
             ]
         }
     ]
