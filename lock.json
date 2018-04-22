@@ -1,5 +1,5 @@
 {
-    "memo": "ca1362c8fd19c2e797f924b686b2a105a241f2f879f0bbed79d04124124064de",
+    "memo": "1d0e7d37d554d165ba28767565d2678e2f90bde1f5cd635186d4f587544a3919",
     "projects": [
         {
             "name": "github.com/go-chi/chi",
@@ -8,6 +8,14 @@
             "packages": [
                 ".",
                 "middleware"
+            ]
+        },
+        {
+            "name": "github.com/go-chi/cors",
+            "version": "v1.0.0",
+            "revision": "dba6525398619dead495962a916728e7ee2ca322",
+            "packages": [
+                "."
             ]
         },
         {
